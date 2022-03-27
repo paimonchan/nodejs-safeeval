@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-safeeval",
+  "version": "1.0.0",
+  "description": "Nodejs Safe Eval",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paimonchan/nodejs-safeeval.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "eval",
+    "safe_eval",
+    "compile"
+  ],
+  "author": "Paimon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paimonchan/nodejs-safeeval/issues"
+  },
+  "homepage": "https://github.com/paimonchan/nodejs-safeeval#readme"
+}
